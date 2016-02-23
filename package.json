@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Simple Node JS weather app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajanJS/Weather_App.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weather"
+  ],
+  "author": "Rajan Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajanJS/Weather_App/issues"
+  },
+  "homepage": "https://github.com/RajanJS/Weather_App#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "yargs": "^4.1.0"
+  }
+}
